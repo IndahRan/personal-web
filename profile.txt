@@ -1,0 +1,28 @@
+<img src="gambar/a.jpeg">
+                    <h3>My name is Indah Putri Maharani</h3>
+                    <p>I was born on Thursday, August 8, 2002 in Bandung. Now I am 20 years old.</p>
+                
+                    <img src="gambar/telkom.jpg">
+                    <h3>I am a student at Telkom University</h3>
+                    <p>Majoring in informatics. The reason I chose the Informatics major is because it suits with my interest, 
+                        which is to develop or create programs that can be useful for many people.</p>
+                
+                    <img src="gambar/like.jpg">
+                    <p>I am very interested in AI, IoT, UI/UX and many other things. My hobbies are reading, cooking and enjoy 
+                        being involved in social activities. In addition, I also like music and English. I won 1st place in the 
+                        spelling bee category when I was in high school. I also do swimming so I can keep myself healthy.</p>
+                
+                    <img src="gambar/orga.jpg">
+                    <p>I am active in several organizations and events on campus such as being a committee for welcoming new 
+                        students and being a lab assistant for Islamic religion courses.  I always try to improve my skills and 
+                        morals to be a better person. I do this by joining as a volunteer so I can help other people with love 
+                        and dedication.</p>
+               
+                    <img src="gambar/apps.jpg">
+                    <p>I am someone who has a high will and determination, is always interested in learning new things, likes 
+                        to socialize, always prepares all activities with plans and targets and has a high interest in 
+                        manufacturing and technology development.</p>
+
+<p>www.linkedin.com/in/indahputrimaharani</p>
+                <p>iiiiiiiii0n</p>              
+</div>
